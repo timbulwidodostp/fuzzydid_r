@@ -1,6 +1,8 @@
 # fuzzydid_r
 Estimation with fuzzy differences-in-differences designs Use fuzzydid (Rfuzzydid) With (In) R Software
 
+https://www.youtube.com/watch?v=_yTelasnBy0
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
